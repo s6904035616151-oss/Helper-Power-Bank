@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "helper-built-in-cable",
+      "name": "Helper Power Bank Built-in Cable Series",
+      "type": "Built-in Cable",
+      "price": 699,
+      "image": "images/product-built-in-cable.jpg",
+      "description": "พาวเวอร์แบงค์ความจุสูง 20,000 mAh ชาร์จต่อเนื่องได้นาน 2 วัน โดดเด่นด้วยสายชาร์จ Built-in ในตัว รองรับทั้งหัว Lightning สำหรับ iPhone และ USB-C จบปัญหาลืมพกสายชาร์จ ตัวเครื่องขนาดเล็ก น้ำหนักเบา พกพาสะดวก คุ้มค่าทุกการเดินทาง",
+      "colors": [
+        { "name": "ขาว", "hex": "#FFFFFF" },
+        { "name": "ดำ", "hex": "#2B2A28" },
+        { "name": "ชมพูอ่อน", "hex": "#F6D9DD" },
+        { "name": "ฟ้าอ่อน", "hex": "#CFE8F0" }
+      ]
+    },
+    {
+      "id": "helper-magsafe",
+      "name": "Helper Power Bank MagSafe Series",
+      "type": "MagSafe",
+      "price": 699,
+      "image": "images/product-magsafe.jpg",
+      "description": "พาวเวอร์แบงค์แม่เหล็กสำหรับแปะชาร์จด้านหลังเคสโทรศัพท์ ยึดแน่นด้วยพลังแม่เหล็ก ไม่ต้องใช้สาย ความจุ 20,000 mAh ชาร์จต่อเนื่องได้นาน 2 วัน ดีไซน์ล้ำสมัย ขนาดเล็ก น้ำหนักเบา ไม่เกะกะขณะใช้งาน",
+      "colors": [
+        { "name": "ขาว", "hex": "#FFFFFF" },
+        { "name": "ดำ", "hex": "#2B2A28" },
+        { "name": "ชมพูอ่อน", "hex": "#F6D9DD" },
+        { "name": "ฟ้าอ่อน", "hex": "#CFE8F0" }
+      ]
+    }
+  ]
+}
